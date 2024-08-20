@@ -9,9 +9,5 @@ demo_data <- data.frame(
   score = c(85, 90, 78, 92, 88)
 )
 
-# Print the data frame
-print(demo_data)
 
-# Save the data frame to a CSV file
-write.csv(demo_data, "demo_data.csv", row.names = FALSE)
 
