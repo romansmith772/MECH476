@@ -3,4 +3,4 @@ Module 1: This module covered the very basics of how R works. I learned how to s
 
 Module 2: This module coveres the basics of what conventions and file paths R uses. R uses similar directory commands as other unix based systems. This lesson covered several fucntions for navigating, creating, modifing and deleting direcories and files. 
 
-Module 3:
+Module 3: This module went ove the basics of creating numbers in a seqenced array. This lesson covered how to use the colon operator, the seq() function, the rep() function. This lesson also covered how to use the length() function and the use of an 'along' function in combonation with the seq function. 
