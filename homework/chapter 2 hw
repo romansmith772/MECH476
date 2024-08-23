@@ -5,4 +5,12 @@ Module 2: This module coveres the basics of what conventions and file paths R us
 
 Module 3: This module went ove the basics of creating numbers in a seqenced array. This lesson covered how to use the colon operator, the seq() function, the rep() function. This lesson also covered how to use the length() function and the use of an 'along' function in combonation with the seq function. 
 
-Module 4: This module covers the basics of vectors in R. There are several differnt types of vectors including logical ones. the module also covers how basic logical operations work in R.
+Module 4: This module covers the basics of vectors in R. There are several differnt types of vectors including logical ones. the module also covers how basic logical operations work in R. Later in the module, it covers how the paste function works, as well as including basics of combining vectors using sep= and collapse=
+
+Module 5: Module 5 introduces missing values in vectors this is accomplished by using NA. This module also shows how to use the is.na() function and introduces the normal distribution fuction as well as the sample function. In R NA is not a value but it is just a placeholder of where data could be. This module also indtroduces how R represents Nan and Inf.
+
+Module 6: This module introduces indexing vectors [].This module then breaks down the different kinds of index vectors: logical vectors, vectors of positive integers, vectors of negative integers, and vectors of character strings. It is important to remember that R using one-based indexing so the first value in a vector is indexed as '1'. this module also goes over how to add atributes to vectors using the name() function
+
+
+
+
