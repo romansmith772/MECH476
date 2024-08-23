@@ -13,6 +13,6 @@ Module 6: This module introduces indexing vectors [].This module then breaks dow
 
 Module 7: This module introduces matrices and data frames. Matricies can be created by assigning a dimention attribute to a vector or by using the matrix() function this module also covers the cbind() function to add a vector to a matrix. This module also covers the data.frame() function and how to work with data frames.
 
-
-
+Module 8: This module covers the basics in logiccal opperations in R. This module was a basic review of boolean algebra and digital logic. R uses similar logic conventiosn to python or other coding languages. && || only apply to the first object in a vefctor. 
+.
 
