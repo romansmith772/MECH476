@@ -11,6 +11,8 @@ Module 5: Module 5 introduces missing values in vectors this is accomplished by 
 
 Module 6: This module introduces indexing vectors [].This module then breaks down the different kinds of index vectors: logical vectors, vectors of positive integers, vectors of negative integers, and vectors of character strings. It is important to remember that R using one-based indexing so the first value in a vector is indexed as '1'. this module also goes over how to add atributes to vectors using the name() function
 
+Module 7: This module introduces matrices and data frames. Matricies can be created by assigning a dimention attribute to a vector or by using the matrix() function this module also covers the cbind() function to add a vector to a matrix. This module also covers the data.frame() function and how to work with data frames.
+
 
 
 
