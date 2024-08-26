@@ -16,7 +16,7 @@ Module 7: This module introduces matrices and data frames. Matricies can be crea
 Module 8: This module covers the basics in logiccal opperations in R. This module was a basic review of boolean algebra and digital logic. R uses similar logic conventiosn to python or other coding languages. && || only apply to the first object in a vector. This module also introduces the which, any, all functions which. 
 Module 9: This module introduces the cocnept of how functions work in R.This module shows you how to write your own function and call it. It is important to remember that everything in R exists as an object and everything happens in a function call. functions are called by defining the arguments. R is able to call functions as long as the input arguments are defined in the function call. It is also possible to pass functions as argumetns in other functions. anonymous functions are useful for quickly using as arguments in other functions to use them in more specific use cases. This module also introduces binary operators. 
 
-Module 12
+Module 12: This module introduces how to look at large datasets in R.It introduces various function that allow you to find properities of large data sets quickly and efficiently. summary is a useful function that quickly summarizes various descriptive satistics of the dataset.The str() function is another very useful function that combines many of the features of the other functions in a concise and readable format. At the very top, it says that the class of dataset is 'data.frame'. It then says the name and class of each variable, as well as a preview of its contents.
+ 
 
-.
 
